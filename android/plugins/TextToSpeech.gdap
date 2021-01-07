@@ -1,0 +1,5 @@
+[config]
+
+name="TTS"
+binary_type="local"
+binary="texttospeech-debug.aar"
