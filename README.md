@@ -1,5 +1,8 @@
 # How To Use
 
+## 插件源码
+* [Godot-Android-TTS-Plugin](https://github.com/lminggang/Godot-Android-TTS-Plugin)
+
 ## Godot Export Android
 ```
 1. 打开项目并下载 Android 模板
